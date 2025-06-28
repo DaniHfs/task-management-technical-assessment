@@ -2,7 +2,7 @@
 
 This is a functional full-stack backend built with **Node.js**, **Express**, **TypeScript**, **PostgreSQL**, and **JWT authentication**. 
 
-Time limit of 2 hours.
+Made under a time limit of 2 hours.
 
 I struggled to recall how to do a lot of this, and I went over the time limit because of that. Given the circumstances, I decided to at least present a functional backend.
 
